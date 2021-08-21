@@ -16,3 +16,11 @@ https://t.me/BotFather
 
 Chat ID
 https://t.me/RawDataBot
+
+
+=============================================================
+
+Documentación
+https://core.telegram.org/bots/api
+https://github.com/python-telegram-bot/python-telegram-bot/
+	
