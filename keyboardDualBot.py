@@ -34,7 +34,7 @@ def button(update, context):
 
 
     # CallbackQueries necesitan una respuesta, incluso si no se notifica al usuario
-    # Algún clientes podrían tener inconvenientes. Ver https://core.telegram.org/bots/api#callbackquery
+    # Algunos clientes podrían tener inconvenientes. Ver https://core.telegram.org/bots/api#callbackquery
     query.answer()
 
     if query.data == 'option1':
